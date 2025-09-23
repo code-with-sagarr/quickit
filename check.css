@@ -1,0 +1,239 @@
+Skip to main content
+Google Classroom
+Classroom
+HTML by Thakur Shivam Kumar Sir
+JAVA 52 (28th AUG 2025)
+Home
+Calendar
+Enrolled
+To do
+H
+HTML by Thakur Shivam Kumar Sir
+JAVA 52 (28th AUG 2025)
+C
+C Language by Kishore Sir
+Java Batch 52 and .NET 37(22nd AUGUST 2025)
+Archived classes
+Settings
+Stream
+Classwork
+People
+HTML by Thakur Shivam Kumar Sir
+JAVA 52 (28th AUG 2025)
+Upcoming
+Woohoo, no work due in soon!
+
+Post by Shivam Thakur
+Shivam Thakur
+Created 20:5720:57
+Quick It code
+Displaying cart.png
+
+index.html
+HTML
+
+search.png
+Image
+
+stopwatch.png
+Image
+
+style.css
+CSS
+
+Post by Ravindra
+Ravindra
+Created 17:3617:36
+Task :
+
+Basic text and background properties.pdf
+PDF
+
+Post by Shivam Thakur
+Shivam Thakur
+Created 12:5312:53
+Date: 22nd December 2025
+
+background in CSS.docx
+Microsoft Word
+
+Box Model in CSS.docx
+Microsoft Word
+
+Post by Shivam Thakur
+Shivam Thakur
+Created 20 Sept20 Sept
+Date: 20th September 2025
+Displaying cart.png
+
+background in CSS.docx
+Microsoft Word
+
+index.html
+HTML
+
+search.png
+Image
+
+style.css
+CSS
+
+Post by Ravindra
+Ravindra
+Created 19 Sept19 Sept
+Todays Task :
+
+Borders and Backgrounds.pdf
+PDF
+
+Post by Shivam Thakur
+Shivam Thakur
+Created 19 Sept19 Sept
+Date: 19th September 2025
+
+Typography in CSS.docx
+Microsoft Word
+
+Post by Ravindra
+Ravindra
+Created 18 Sept18 Sept
+Task :
+
+CSS Day 1.pdf
+PDF
+
+Post by Shivam Thakur
+Shivam Thakur
+Created 18 Sept18 Sept
+Date: 18th September 2025
+
+Colors in CSS.docx
+Microsoft Word
+
+Sizes in CSS.docx
+Microsoft Word
+
+Post by Ravindra
+Ravindra
+Created 17 Sept17 Sept
+Task 2 :
+Displaying Screenshot 2025-09-17 180718.png
+Screenshot 2025-09-17 180718.png
+
+Post by Ravindra
+Ravindra
+Created 17 Sept17 Sept
+Task :
+
+Basic Forms.pdf
+PDF
+Stream
+header{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    row-gap: 5px;
+}
+
+#header1{
+    display: flex;
+    font-size: 36px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+
+#header2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 1px;
+}
+
+#header2>span{
+    font-weight: 700;
+}
+
+#header2>select{
+    border: none;
+    width: 180px;
+}
+
+
+#header3>input{
+    height: 45px;
+    width: 330px;
+    border-radius: 10px;
+    border: 1px solid #bbb;
+    background-image: url('search.png');
+    background-repeat: no-repeat;
+    padding-left: 35px;
+    background-position: 8px 12px;
+    background-size: 24px;
+}
+
+#header4>button{
+    font-size: 18px;
+    background-color: white;
+    border: none;
+}
+
+#header5{
+    background-color: white;
+    border: 1px solid #bbb;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+#first{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#second{
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 10px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#third{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    column-gap: 20px;
+}
+
+#add-btn{
+    background-color: rgba(0, 128, 0, 0.117);
+    border: 0.5px solid green;
+    color: green;
+    font-size: 15px;
+    border-radius: 8px;
+    width: 60px;
+    height: 40px;
+}
+
+#fourth{
+    display: flex;
+    row-gap: 10px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#fourth1{
+    border: 0.3px solid #bbb;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 3px 3px 4px #bbb;
+}
+style.css
+Displaying style.css.
